@@ -3,3 +3,6 @@ ds/__pycache__/*
 
 #runs
 runs/*
+
+#vscode
+.vscode/*
