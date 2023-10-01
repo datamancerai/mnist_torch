@@ -1,0 +1,5 @@
+#cache
+ds/__pycache__/*
+
+#runs
+runs/*
